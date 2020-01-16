@@ -6,7 +6,6 @@ import cv2
 
 
 # Read in and grayscale the image
-
 cap = cv2.VideoCapture('data/test_videos/solidYellowLeft.mp4')
 
 while(cap.isOpened()):
